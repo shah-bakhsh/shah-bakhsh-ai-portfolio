@@ -1,102 +1,130 @@
 <!--
-  Shah Bakhsh | AI Engineer Portfolio
-  Public-facing repository documentation
+  Shah Bakhsh | AI Engineering Portfolio
+  Repository documentation
 -->
 
 <div align="center">
 
 # Shah Bakhsh
 
-### AI Engineer · Agentic AI Developer · LLM & NLP
+### AI Engineer | Agentic AI · LLM Engineering · NLP
 
-**Building intelligent systems that turn complex workflows into meaningful outcomes.**
+**Building intelligent systems that transform complex workflows into useful, practical outcomes.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-F5C518?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shah-bakhsh/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shah-bakhsh)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Explore%20Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)](https://huggingface.co/shah-bakhsh)
+<p>
+  <a href="https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/"><strong>Explore the Live Portfolio ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shah-bakhsh/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/shah-bakhsh">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://huggingface.co/shah-bakhsh">Hugging Face</a>
+</p>
 
-[![Deploy to GitHub Pages](https://github.com/shah-bakhsh/shah-bakhsh-ai-portfolio/actions/workflows/pages.yml/badge.svg)](https://github.com/shah-bakhsh/shah-bakhsh-ai-portfolio/actions/workflows/pages.yml)
+<p>
+  <a href="https://github.com/shah-bakhsh/shah-bakhsh-ai-portfolio/actions/workflows/pages.yml"><img src="https://github.com/shah-bakhsh/shah-bakhsh-ai-portfolio/actions/workflows/pages.yml/badge.svg" alt="GitHub Pages deployment workflow"></a>
+  <img src="https://img.shields.io/badge/Hosting-GitHub%20Pages-222222?logo=githubpages" alt="Hosted on GitHub Pages">
+  <img src="https://img.shields.io/badge/Website-Responsive-2E8B57" alt="Responsive website">
+  <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JavaScript-F5C518" alt="HTML CSS JavaScript">
+</p>
 
 </div>
 
 ---
 
-## About this repository
+## Portfolio preview
 
-This repository contains the source code for my personal portfolio website. It brings together my work, technical interests, selected projects, and research direction across:
-
-- **Agentic AI:** intelligent agents, tool use, orchestration, and workflow automation.
-- **LLM Engineering:** large language model applications, prompt design, fine-tuning, and evaluation.
-- **Retrieval-Augmented Generation:** retrieval pipelines, embeddings, vector search, and grounded AI systems.
-- **Applied Machine Learning:** model development, experimentation, and evaluation.
-- **Low-Resource NLP:** language technology and research for underserved languages, including Balochi.
-
-The website is built as a lightweight, responsive static experience with a dark visual identity, warm gold accents, and focused interactions.
-
-<div align="center">
-
-### Explore the live portfolio
+Visit the live website to explore the complete design, project showcase, technical interests, and contact links:
 
 **[shah-bakhsh.github.io/shah-bakhsh-ai-portfolio](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)**
 
-</div>
+> The live website is the authoritative visual preview. This repository README documents the source code and how to run, maintain, and deploy it.
 
-## Portfolio sections
+## About
 
-| Section | What it covers |
+This repository contains the source code for my personal AI engineering portfolio. It is designed as a central place for people, teams, and organizations to explore my technical interests, selected work, and research direction.
+
+My work and learning focus on:
+
+- **Agentic AI:** AI agents, tool calling, orchestration, and multi-step workflow automation.
+- **LLM Engineering:** applications built with large language models, model adaptation, prompting, and evaluation.
+- **Retrieval-Augmented Generation:** retrieval pipelines, embeddings, vector search, and grounded responses.
+- **Applied Machine Learning:** model experimentation, training, evaluation, and practical applications.
+- **Low-Resource NLP:** language technology for underserved languages, with a particular focus on Balochi.
+
+The website uses a dark visual direction with warm gold accents, responsive layouts, and lightweight client-side interactions.
+
+## What's inside
+
+| Area | Overview |
 | --- | --- |
-| **About** | Background, engineering mindset, and interests |
-| **Expertise** | Agentic AI, LLMs, RAG, machine learning, and engineering |
-| **Selected Work** | Projects and practical AI experiments |
-| **Research** | Language technology and applied AI exploration |
-| **Contact** | Professional links and ways to connect |
+| About | Professional introduction, engineering interests, and approach |
+| Expertise | Agentic AI, LLMs, RAG, machine learning, and software development |
+| Selected projects | A curated overview of AI products, experiments, and research |
+| Research | Work and interests in language technology and low-resource NLP |
+| Contact | Professional profiles and ways to connect |
 
-## Selected projects
+## Featured projects
+
+The projects below represent selected work and areas of development. Follow the linked repositories or profiles for source code, model cards, and current project details.
 
 ### SHAH.OS
-An interactive AI engineering universe designed to bring projects, research, capabilities, and experiments into one digital experience.
+An interactive AI engineering portfolio experience for presenting projects, research, capabilities, and experiments.
 
-[Repository](https://github.com/shah-bakhsh/shah-bakhsh-shah-os)
+[Explore the SHAH.OS repository](https://github.com/shah-bakhsh/shah-bakhsh-shah-os)
 
-### BalPOS & BalBERT
-Balochi language technology work spanning part-of-speech tagging, tokenizer development, and masked-language-model pretraining.
+### BalPOS
+A Balochi Arabic-script part-of-speech tagging project exploring NLP for a low-resource language.
 
-[Hugging Face profile and models](https://huggingface.co/shah-bakhsh)
+[Explore the BalPOS model on Hugging Face](https://huggingface.co/shah-bakhsh/balochi-pos-tagger)
+
+### BalBERT
+A Balochi language-model research effort involving tokenizer development and masked-language-model pretraining.
+
+[Explore models and research on Hugging Face](https://huggingface.co/shah-bakhsh)
 
 ### BalOCR
-An OCR initiative focused on printed Balochi Arabic-script text, supported by a curated image dataset and a model-training workflow.
+An OCR research initiative focused on printed Balochi Arabic-script text, dataset preparation, and model training.
+
+[Explore my Hugging Face projects](https://huggingface.co/shah-bakhsh)
 
 ### PathPilot AI
-An AI-powered career guidance concept designed to help people explore skills, learning paths, and career decisions.
+An AI-powered career guidance project concept designed to help people explore skills, learning paths, and career options.
 
-[Repository](https://github.com/shah-bakhsh/pathpilot-ai)
+[Explore the PathPilot AI repository](https://github.com/shah-bakhsh/pathpilot-ai)
 
 ### CrisisPilot AI
-An AI-assisted crisis intelligence concept focused on turning early warning signals into structured insights and actionable response workflows.
+An AI-assisted crisis intelligence concept focused on transforming early-warning signals into structured insights and response workflows.
 
-> Project descriptions reflect the scope presented in the portfolio. Individual projects may be under active development.
+[Explore the portfolio for project information](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)
+
+> Project scope and implementation status can evolve. Refer to each project's own repository or model documentation for the latest technical details.
 
 ## Technology
 
-### This website
+### Portfolio website
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated%20Deploy-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Hosting-222222?style=flat-square&logo=githubpages&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
+</p>
 
-- HTML5 for semantic page structure
-- CSS3 for layout, responsive design, and visual styling
-- Vanilla JavaScript for navigation and interface interactions
-- Google Fonts for typography
-- GitHub Actions for automated deployment
-- GitHub Pages for static hosting
+The portfolio is a static website and does not require a frontend framework or package installation.
+
+- **HTML5** provides the page structure and content.
+- **CSS3** handles the visual system, layout, and responsive styling.
+- **Vanilla JavaScript** powers the client-side interactions.
+- **GitHub Actions** automates publishing.
+- **GitHub Pages** hosts the published website.
 
 ### Broader AI engineering toolkit
 
-Python · PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · LangGraph · CrewAI · AutoGen · RAG · FAISS · Chroma · FastAPI · SQL · Docker · AWS
+Python · PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · LangChain · LangGraph · CrewAI · AutoGen · RAG · FAISS · Chroma · FastAPI · SQL · Docker · AWS
+
+This list describes tools and technologies across my broader learning and project work. It is not a claim that every technology is used by this portfolio website.
 
 ## Repository structure
 
@@ -106,16 +134,16 @@ shah-bakhsh-ai-portfolio/
 │   └── workflows/
 │       └── pages.yml       # GitHub Pages deployment workflow
 ├── index.html              # Portfolio page and content
-├── theme.css               # Visual system and responsive styles
-├── main.js                 # Navigation and UI interactions
-├── favicon.svg             # Browser icon
+├── theme.css               # Visual styles and responsive layout
+├── main.js                 # Navigation and interface interactions
+├── favicon.svg             # Browser tab icon
 ├── robots.txt              # Search engine crawling guidance
 └── README.md               # Project documentation
 ```
 
 ## Run locally
 
-This is a static website. There is no package installation or build command required.
+You can run the portfolio locally with Python. No Node.js installation, package manager, or build step is required.
 
 ### 1. Clone the repository
 
@@ -124,9 +152,9 @@ git clone https://github.com/shah-bakhsh/shah-bakhsh-ai-portfolio.git
 cd shah-bakhsh-ai-portfolio
 ```
 
-### 2. Start a local server
+### 2. Start a local web server
 
-Using Python:
+If Python 3 is installed:
 
 ```bash
 python -m http.server 8000
@@ -136,48 +164,72 @@ python -m http.server 8000
 
 Visit [http://localhost:8000](http://localhost:8000) in your browser.
 
-You can also open `index.html` directly, although using a local server is recommended for a more representative preview.
+You can also open `index.html` directly, but using a local server is recommended for a more reliable preview.
 
-## Deployment
+## Deployment | GitHub Pages
 
-The repository includes a GitHub Actions workflow at:
+This repository includes a GitHub Actions workflow that publishes the static website to GitHub Pages.
 
-` .github/workflows/pages.yml `
+- **Workflow:** [`.github/workflows/pages.yml`](.github/workflows/pages.yml)
+- **Workflow runs:** [View GitHub Actions](https://github.com/shah-bakhsh/shah-bakhsh-ai-portfolio/actions/workflows/pages.yml)
+- **Hosting platform:** [GitHub Pages](https://pages.github.com/)
+- **Published website:** [https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)
 
-The workflow is configured to publish the static website when changes are pushed to the `main` branch, and can also be started manually from the Actions tab.
+### Deployment process
 
-### Enable GitHub Pages
+1. A change is pushed to the `main` branch, or the workflow is started manually.
+2. GitHub Actions checks out the repository.
+3. The workflow configures GitHub Pages.
+4. The static website files are packaged and uploaded as a Pages artifact.
+5. GitHub Actions deploys the artifact to the published Pages site.
 
-1. Open **Settings → Pages** in this repository.
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+### GitHub Pages configuration
+
+If setting up Pages for the first time:
+
+1. Open this repository's **Settings → Pages**.
+2. Under **Build and deployment**, choose **GitHub Actions** as the source.
 3. Open the **Actions** tab.
 4. Check the **Deploy portfolio to GitHub Pages** workflow.
-5. After a successful deployment, visit:
+5. When the deployment succeeds, visit the live website.
 
-   **[https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)**
-
-### Important repository visibility note
-
-The deployed portfolio website is intended to be publicly accessible. GitHub plan eligibility determines whether GitHub Pages can publish from a private source repository. If your plan does not support Pages from private repositories, make this repository public or use a plan that supports the required configuration.
-
-Making this repository public also makes its source code and commit history visible to everyone. Review the repository for secrets, credentials, private data, and files that should not be published before changing its visibility.
+The workflow badge at the top of this README links to the deployment workflow and displays its latest status.
 
 ## Updating the portfolio
 
-- Edit text, project information, and page structure in `index.html`.
-- Change colors, typography, spacing, and responsive behavior in `theme.css`.
-- Update navigation and interactive behavior in `main.js`.
-- Keep local asset references relative, such as `./theme.css`, so the website works at the GitHub Pages project URL.
-- Push changes to `main` to trigger the deployment workflow.
+| Change | File |
+| --- | --- |
+| Introduction, sections, project details, and links | `index.html` |
+| Colors, typography, spacing, and responsive layout | `theme.css` |
+| Navigation and interactive behavior | `main.js` |
+| Browser tab icon | `favicon.svg` |
+| Crawler instructions | `robots.txt` |
+| Deployment configuration | `.github/workflows/pages.yml` |
+
+After editing, test the site locally and push your changes to `main`. The GitHub Actions workflow will publish the update.
+
+**GitHub Pages path tip:** Keep local asset references relative, such as `./theme.css`, `./main.js`, and `./favicon.svg`. Root-relative paths such as `/theme.css` can point to the wrong location on a project site.
+
+## Quality and security
+
+Before publishing changes:
+
+- Check the website at desktop and mobile viewport sizes.
+- Verify navigation, project links, and contact links.
+- Review the Actions workflow after each deployment.
+- Do not commit API keys, access tokens, passwords, private datasets, or personal information.
+- Keep project descriptions accurate and link to the original source or model page whenever possible.
 
 ## Connect
 
+For collaboration, technical discussions, or opportunities related to Agentic AI, LLM applications, NLP, and practical AI engineering, connect through these profiles:
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shah%20Bakhsh-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shah-bakhsh/)
-[![GitHub](https://img.shields.io/badge/GitHub-shah--bakhsh-181717?style=flat-square&logo=github)](https://github.com/shah-bakhsh)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-shah--bakhsh-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)](https://huggingface.co/shah-bakhsh)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-F5C518?style=flat-square&logo=googlechrome&logoColor=111111)](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shah%20Bakhsh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shah-bakhsh/)
+[![GitHub](https://img.shields.io/badge/GitHub-shah--bakhsh-181717?style=for-the-badge&logo=github)](https://github.com/shah-bakhsh)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-shah--bakhsh-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)](https://huggingface.co/shah-bakhsh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-F5C518?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/)
 
 </div>
 
