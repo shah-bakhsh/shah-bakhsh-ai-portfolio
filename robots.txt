@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/sitemap.xml
