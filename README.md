@@ -195,6 +195,28 @@ If setting up Pages for the first time:
 
 The workflow badge at the top of this README links to the deployment workflow and displays its latest status.
 
+## Search engine optimization
+
+The site includes basic technical SEO foundations:
+
+- Descriptive page title and meta description.
+- Canonical URL for the GitHub Pages address.
+- Robots directives allowing search crawlers.
+- XML sitemap at [`/sitemap.xml`](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/sitemap.xml).
+- Sitemap discovery declared in [`robots.txt`](https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/robots.txt).
+- Open Graph and Twitter summary metadata.
+- Schema.org `Person` structured data linking the portfolio to its public professional profiles.
+
+### Submit the site to Google
+
+1. Open [Google Search Console](https://search.google.com/search-console/).
+2. Add a **URL-prefix** property for `https://shah-bakhsh.github.io/shah-bakhsh-ai-portfolio/`.
+3. Complete the ownership verification method Google offers. For a GitHub Pages project site, use a supported HTML file or HTML tag verification method if available; publish any provided verification file at the repository root or add the exact provided tag to the page. Do not guess a verification token.
+4. In Search Console, open **Sitemaps** and submit `sitemap.xml`.
+5. Use **URL Inspection** for the homepage and select **Request indexing**.
+
+Google's crawling and indexing are not instant or guaranteed. After requesting indexing, monitor the Pages and indexing reports in Search Console. Google says recrawling can take days to weeks.
+
 ## Updating the portfolio
 
 | Change | File |
